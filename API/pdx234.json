@@ -1,13 +1,24 @@
 {
   "response": [
     {
-      "datetime": 1742228017,
-      "filename": "PixelOS_pdx234-15.0-20250420-0030.zip",
-      "id": "B8FBF860D9B5DE19C1CF86DF8555076C8B8A9D6E35DBF805838770173A6672BA",
-      "romtype": "monthly",
-      "size": 2355769344,
-      "url": "empty",
-      "version": "15.2"
+      "model": "Xperia 1V",
+      "vendor": "Sony",
+      "codename": "pdx234",
+      "codename_alt": "pdx234",
+      "datetime": 1748787555,
+      "filename": "PixelOS_pdx234-15.0-20250601-1430.zip",
+      "filehash": "D02721F66978D97C698AAC9752C93BC5790FDF17B935DFCC843CC3AA3A7F43CA",
+      "id": "D02721F66978D97C698AAC9752C93BC5790FDF17B935DFCC843CC3AA3A7F43CA",
+      "size": 2442795900,
+      "url": "https://sourceforge.net/projects/pixelos-pdx234/files/20250601/PixelOS_pdx234-15.0-20250601-1430.zip",
+      "version": "15.2",
+      "maintainer": [
+        {
+            "display_name": "Onlyfish",
+            "telegram": "onlyfish",
+            "github": "li-notfish"
+        }
+    ]
     }
   ]
 }
