@@ -5,12 +5,12 @@
       "vendor": "Sony",
       "codename": "pdx234",
       "codename_alt": "pdx234",
-      "datetime": 1755426154,
-      "filename": "PixelOS_pdx234-15.0-20250817-1029.zip",
-      "filehash": "d372731c70bcf3ec3378cf006091592c",
-      "id": "d372731c70bcf3ec3378cf006091592c",
-      "size": 2525629299,
-      "url": "https://sourceforge.net/projects/pixelos-pdx234/files/20250817/PixelOS_pdx234-15.0-20250817-1029.zip",
+      "datetime": 1756200099,
+      "filename": "PixelOS_pdx234-15.0-20250826-0927.zip",
+      "filehash": "cbe543caa695b9226b79e70d0c744dae",
+      "id": "cbe543caa695b9226b79e70d0c744dae",
+      "size": 2531815564,
+      "url": "https://sourceforge.net/projects/pixelos-pdx234/files/20250826/PixelOS_pdx234-15.0-20250826-0927.zip",
       "version": "15.2",
       "maintainer": [
         {
