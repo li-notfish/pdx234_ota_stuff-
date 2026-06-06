@@ -5,20 +5,20 @@
       "vendor": "Sony",
       "codename": "pdx234",
       "codename_alt": "pdx234",
-      "datetime": 1778604366,
-      "filename": "PixelOS_pdx234-16.2-20260512-1652.zip",
-      "filehash": "2554860e94d624ff240bb22d1144a9ff",
-      "id": "2554860e94d624ff240bb22d1144a9ff",
-      "size": 2730319153,
-      "url": "https://sourceforge.net/projects/pixelos-pdx234/files/16/QPR2/20260512/PixelOS_pdx234-16.2-20260512-1652.zip",
+      "datetime": 1780679582,
+      "filename": "PixelOS_pdx234-16.2-20260605-1719.zip",
+      "filehash": "b27db499f745f4c11df31b460be92a2c",
+      "id": "b27db499f745f4c11df31b460be92a2c",
+      "size": 2730933765,
+      "url": "https://sourceforge.net/projects/pixelos-pdx234/files/16/QPR2/20260606/PixelOS_pdx234-16.2-20260605-1719.zip",
       "version": "16.2",
       "maintainer": [
         {
-            "display_name": "Onlyfish",
-            "telegram": "onlyfish",
-            "github": "li-notfish"
+          "display_name": "Onlyfish",
+          "telegram": "onlyfish",
+          "github": "li-notfish"
         }
-    ]
+      ]
     }
   ]
 }
